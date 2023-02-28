@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s}from"./index.0f1400e8.js";const t={components:{}},c={class:"my-4"};function n(r,a,_,p,m,f){return s(),o("h5",c,"\u9996\u9801\u5167\u5BB9")}const d=e(t,[["render",n]]);export{d as default};
